@@ -4,7 +4,6 @@
 
 I'm a Computer Science student at ENSIA interested in software development,
 data, and artificial intelligence.
-
 I enjoy building applications, learning new technologies, and turning
 ideas into practical projects.
 
@@ -52,8 +51,8 @@ and machine learning.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=BENDJEMAAiman&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENDJEMAAiman&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 ---
@@ -61,19 +60,7 @@ and machine learning.
 ## Featured Projects
 
 ### 📱 Readly
-
-A mobile application for discovering and exploring books using the
-Open Library API.
-
-### ✅ TaskFlow
-
-A Flutter-based task management application focused on creating,
-organizing, and managing daily tasks.
-
-### 📊 Data Mining Labs
-
-Coursework and practical implementations developed while studying
-Data Mining.
+A distraction-free reading tracker that helps users manage their personal library, track reading progress, record reading sessions, set reading goals, and capture notes along the way.
 
 ---
 
