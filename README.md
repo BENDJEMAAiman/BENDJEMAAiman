@@ -52,7 +52,7 @@ and machine learning.
 
 <p align="center">
   <img src="https://github-readme-stats-flame-three-48.vercel.app/api?username=BENDJEMAAiman&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats-flame-three-48.vercel.app/api/top-langs/?username=BENDJEMAAiman&layout=compact&count_private=true&theme=tokyonight&hide_border=true" height="170">
+ <img src="https://github-readme-stats-flame-three-48.vercel.app/api/top-langs/?username=BENDJEMAAiman&layout=compact&count_private=true&hide_border=true&v=2" height="170">
 </p>
 
 ---
