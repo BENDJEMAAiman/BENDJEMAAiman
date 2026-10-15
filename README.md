@@ -1,4 +1,4 @@
-# Hi, I'm Imene! 👋
+# Hi, I'm Imane! 👋
 
 ## About Me
 
